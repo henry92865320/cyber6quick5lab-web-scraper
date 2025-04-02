@@ -1,2 +1,3 @@
-# cyber6quick5lab-web-scraper
-A web-scraper project by henry92865320
+# Web Scraper Project
+
+A Python web scraping project that collects data from various websites.
